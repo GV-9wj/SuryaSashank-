@@ -5,7 +5,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
-### A little bit about myself
+#### A little bit about myself
 - I am a 21 year old mechanical engineer who wishes to pursue a career in computational finance. I like building mathematical and econometric models and I'm figuring out how I can deploy them for algorithmic trading. I'm new here to the programming community but I am a fast learner. Would love to work on any finance projects or open source contributions. Please contact me at the links in the pages down below.
 
 **1.** I am currently working on building a portfolio website for myself
