@@ -8,9 +8,9 @@
 #### A little bit about myself
 - I am a 21 year old mechanical engineer who wishes to pursue a career in computational finance. I like building mathematical and econometric models and I'm figuring out how I can deploy them for algorithmic trading. I'm new here to the programming community but I am a fast learner. Would love to work on any finance projects or open source contributions. Please contact me at the links in the pages down below.
 
-**1.** I am currently working on building a portfolio website for myself
+**1.** I am currently working on building a financial analysis tool with R programming
 
-**2.** I am currently learning **HTML and C++**
+**2.** I am currently learning **C++ and Technical Analysis with R**
 
 **3.** All of my projects can be found here at [GV-9wj's repositories](https://github.com/GV-9wj?tab=repositories)
 
@@ -19,9 +19,9 @@
 
 #### Some of my projects are listed below
 
-1. During my time at the Solarillion Foundation as a Research Assistant I developed a two stage machine learning model after data wrangling that predicts the time, in minutes, by which a flight will arrive late or not. You can find the project [here](https://github.com/GV-9wj/Flight_Delay_Prediction)
+1. **Flight Delay Prediction:** During my time at the Solarillion Foundation as a Research Assistant I developed a two stage machine learning model after data wrangling that predicts the time, in minutes, by which a flight will arrive late or not. You can find the project [here](https://github.com/GV-9wj/Flight_Delay_Prediction)
 
-
+2. **My first Web Application using Shiny:** Within this project I try to implement some of the basic concepts of R programming and data visualization with R. I also wanted to explore the Shiny package in R, which led me to make an interactive visualization of the movement of the Collatz Conjecture.
 
 
 
