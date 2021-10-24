@@ -6,7 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 #### A little bit about myself
-- I am a 21 year old mechanical engineer who wishes to pursue a career in computational finance. I currenly work as a technical analysis intern at a trading firm. I'm new here to the programming community but I am a fast learner. Would love to work on any finance projects or open source contributions. Please contact me at the links in the pages down below.
+- I am a 21 year old mechanical engineer who wishes to pursue a career in computational finance. I currenly work as a technical analysis intern at a trading firm. Looking for opportunities to learn and build trading models using Deep Learning. I am available for contact at the links below. 
 
 **1.** I am currently working on building a financial analysis tool with R programming
 
