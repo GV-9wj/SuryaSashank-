@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm GV :bear:</h1>
 <h4 align="center">An aspring Quantitative Analyst</h4>
 
+![gif](img/programming.gif)
+
 ![Views](https://komarev.com/ghpvc/?username=GV-9wj&color=red&label=profile+views)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
