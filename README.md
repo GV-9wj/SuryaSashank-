@@ -19,11 +19,16 @@
 
 #### Some of my projects are listed below
 
-1. **Flight Delay Prediction:** During my time at the Solarillion Foundation as a Research Assistant I developed a two stage machine learning model after data wrangling that predicts the time, in minutes, by which a flight will arrive late or not. You can find the project [here](https://github.com/suryasashankgundepudi/Flight_Delay_Prediction)
+1. **Flight Delay Prediction:** During my time at the Solarillion Foundation as a Research Assistant I developed a two stage machine learning model after data wrangling that predicts the time, in minutes, by which a flight will arrive late or not. **Source code can be found ** [here](https://github.com/suryasashankgundepudi/Flight_Delay_Prediction)
 
-2. **Credit Risk analysis and Predictive Modelling** : To expand my programming skills I implemented various R functions to bring about a report on the german credit data, which contains information about people who have taken loans and have either defaulted or paid them duely. You can find the project's source code [here](https://github.com/suryasashankgundepudi/credit-risk-analysis-and-predictive-modelling)
+2. **Credit Risk analysis and Predictive Modelling** : To expand my programming skills I implemented various R functions to bring about a report on the german credit data, which contains information about people who have taken loans and have either defaulted or paid them duely. **Source code can be found  ** [here](https://github.com/suryasashankgundepudi/credit-risk-analysis-and-predictive-modelling)
 
-3. **My first Web Application using Shiny:** Within this project I try to implement some of the basic concepts of R programming and data visualization with R. I also wanted to explore the Shiny package in R, which led me to make an interactive visualization of the movement of the Collatz Conjecture. Source code can be found [here](https://github.com/suryasashankgundepudi/my-first-shiny-app)
+3. **Visualising Technical Analysis Indicators using Dash** : With this web applicaiton I aim to provide a free open source method for people to visualize and understand various technical indicators. People can use this applicaiton to select various technical indicators and then visualize and interact with them. This can help new financial engineers get a better understanding of how various parameters of a technical indicator will affect the way we execute trades. It uses the technical analysis library available for python and Plotly's interactive visualization tools to provide the user with a dynamically changing and interactive tool. **Source Code can be found ** [here](https://github.com/suryasashankgundepudi/technical-analysis-visualization-using-python-v1)
+
+5. **Portfolio Optimization using R** : This is second web applicaiton I had deployed using RStudio and shiny. It uses Perfomance Analytics and Portfolio Optimzation to reduce a user's risk and gives them the optimal percentage weight of each stock in their portfolio. This is a rective application and can be used on any device. **Source code and applicaiton can be found ** [here](https://github.com/suryasashankgundepudi/investment-management-and-portfolio-optimization)
+
+
+6. **My first Web Application using Shiny :** This is my first project and first shiny web applicaiton. I wanted to explore the Shiny package in R, which led me to make an interactive visualization of the movement of the Collatz Conjecture. **Source code and application can be found** [here](https://github.com/suryasashankgundepudi/my-first-shiny-app)
 
 
 
