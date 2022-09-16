@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm GV :bear:</h1>
-<h4 align="center">An aspring Quantitative Analyst</h4>
+<h4 align="center">An aspring Quantitative Trader</h4>
 
 ![gif](img/programming.gif)
 
@@ -8,12 +8,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 #### A little bit about myself
-- I am a 21-year-old mechanical engineer who wishes to pursue a career in computational finance. I currently work as a technical analysis intern at a trading firm. Looking for opportunities to learn and build trading models using Deep Learning. I am available for contact at the links below.
+- I am a 21-year-old graduate student pursuing a masters in Financial Mathermatics at NC State University. I wish to puruse a career as a Quantitative Trader at a propietary trading firm. I internned as a quantitative analysis intern at a trading firm. Looking for opportunities to learn and build new trading strategies. I am available for contact at the links below.
 
 
-**1.** I am currently working on building a financial analysis tool with R programming
+**1.** I am currently working on a new Pairs Trading strategy for USA equities. 
 
-**2.** I am currently learning **C++ and Technical Analysis**
+**2.** I am currently learning **C++ for Quantitative Finance and Probability**
 
 **3.** All of my projects can be found here at [My repositories](https://github.com/suryasashankgundepudi?tab=repositories)
 
