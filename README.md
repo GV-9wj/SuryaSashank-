@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm GV :bear:</h1>
-<h4 align="center">An aspring Quantitative Trader</h4>
+<h4 align="center">An aspring Quantitative Trader/Developer</h4>
 
 ![gif](img/programming.gif)
 
@@ -8,7 +8,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 #### A little bit about myself
-- I am a 21-year-old graduate student pursuing a masters in Financial Mathermatics at NC State University. I wish to puruse a career as a Quantitative Trader at a propietary trading firm. I internned as a quantitative analysis intern at a trading firm. Looking for opportunities to learn and build new trading strategies. I am available for contact at the links below.
+- I am a 22-year-old graduate student pursuing a masters in Financial Mathermatics at NC State University. I wish to puruse a career as a Quantitative Trader at a propietary trading firm. I am currently interning as a Data Analyst at a Mortgage Insurance Company and have interned as a quantitative analysis intern at a trading firm. Looking for opportunities to learn and build new trading strategies. I am available for contact at the links below.
 
 
 **1.** I am currently working on a Pairs Trading strategy for USA equities that looks for cointegration between two stocks and uses statsitical arbitrage to have buy/sell signals. To know more about pairs trading please go [HERE](https://en.wikipedia.org/wiki/Pairs_trade) 
