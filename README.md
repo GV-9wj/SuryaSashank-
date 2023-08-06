@@ -5,7 +5,6 @@
 
 ![Views](https://komarev.com/ghpvc/?username=GV-9wj&color=red&label=profile+views)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 #### A little bit about myself
 - I am a 22-year-old graduate student pursuing a masters in Financial Mathermatics at NC State University. I wish to puruse a career as a Quantitative Trader at a propietary trading firm. I am currently interning as a Data Analyst at a Mortgage Insurance Company and have interned as a quantitative analysis intern at a trading firm. Looking for opportunities to learn and build new trading strategies. I am available for contact at the links below.
@@ -19,16 +18,17 @@
 
 **4.** Ask me anything about Python, R, Statistical Data Analysis, Technical Analysis, Portfolio Management and Probability theory.
 
+**5.** An ongoing long project of mine which I just started again is my technical analysis visualization tool. In recent times I did find that technical analysis has been a tool that hasn't been of much help in the industry but I hope that this can be the beginning of a tool for Quant trading. 
 
 #### Some of my projects are listed below
 
 1. **Visualising Technical Analysis Indicators using Dash** : With this web application I aim to provide a free open source method for new learners or technical analysts to visualize and understand various technical indicators. Learners and traders can use this application to select various technical indicators and then visualize and interact with them. This can help new financial engineers get a better understanding of how various parameters of a technical indicator will affect the way we execute trades. It uses the technical analysis library available for python and Plotly's interactive visualization tools to provide the user with a dynamically changing and interactive tool. **Source Code can be found** [here](https://github.com/suryasashankgundepudi/technical-analysis-visualization-using-python-v1)
 
-2. **Pairs Trading** : Implementing Pairs Trading **Source code can be found** [here](https://github.com/suryasashankgundepudi/Pairs_Trading)
+2. **Pairs Trading** : Implementing Pairs Trading using time series analysis. Conducted data extraction for 200 Stocks and ETFs spanning various industries to identify highly correlated and cointegrated stock pairs. Performed stationarity tests on the spread between selected pairs using the Augmented Dickey Fuller Test. Generated trading signals and evaluated the profitability of the Pairs Trading Strategy, achieving an impressive 21% Compound Annual Growth Rate (CAGR) on a potential pair. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Pairs_Trading)
 
+3. **Sentiment Analysis for Evenet Driven Stock price Prediction** : Led a team in developing a novel neural tensor network for event embedding. Utilized innovative web scraping and NLP techniques to gather and preprocess extensive news data. Achieved a 97% accuracy rate in predicting sentiment from news headlines using a convolutional neural network. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Sentiment-Analysis-for-Event-Driven-Stock-Price-Prediction)
 
-
-2. **Flight Delay Prediction:** During my time at the Solarillion Foundation as a Research Assistant I developed a two stage machine learning model after data wrangling that predicts the time, in minutes, by which a flight will arrive late or not. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Flight_Delay_Prediction)
+3. **Flight Delay Prediction:** During my time at the Solarillion Foundation as a Research Assistant I developed a two stage machine learning model after data wrangling that predicts the time, in minutes, by which a flight will arrive late or not. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Flight_Delay_Prediction)
 
 3. **Credit Risk analysis and Predictive Modelling** : To expand my programming skills I implemented various R functions to bring about a report on the german credit data, which contains information about people who have taken loans and have either defaulted or paid them duely. **Source code can be found** [here](https://github.com/suryasashankgundepudi/credit-risk-analysis-and-predictive-modelling)
 
