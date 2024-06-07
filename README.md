@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm GV :bear:</h1>
-<h4 align="center">An aspring Quantitative Trader/Developer</h4>
+<h4 align="center">An aspring Quantitative Trader/Researcher</h4>
 
 ![gif](img/programming.gif)
 
@@ -7,10 +7,10 @@
 
 
 #### A little bit about myself
-- I am a 22-year-old graduate student pursuing a masters in Financial Mathermatics at NC State University. I wish to puruse a career as a Quantitative Trader at a propietary trading firm. I am currently interning as a Data Analyst at a Mortgage Insurance Company and have interned as a quantitative analysis intern at a trading firm. Looking for opportunities to learn and build new trading strategies. I am available for contact at the links below.
+- I am a 23-year-old Quant working in Liquidity Stress Testing. I gradutated from NC State with a masters in Financial Mathermatics. I wish to puruse a career as a Quantitative Trader or Researcher, specifically with Equities and Equity derivatives. I also interned as a Data Analyst at a Mortgage Insurance Company. Another one of notable experiences was as a quantitative trading intern at a prop trading firm. Looking for opportunities to learn and build new trading strategies. I am available for contact at the links below.
 
 
-**1.** I am currently working on a Pairs Trading strategy for USA equities that looks for cointegration between two stocks and uses statsitical arbitrage to have buy/sell signals. To know more about pairs trading please go [HERE](https://en.wikipedia.org/wiki/Pairs_trade) 
+**1.** I am currently working on building backtests and also a backtesting library using the Interactive Brokers API. 
 
 **2.** I am currently learning **C++ for Quantitative Finance and Probability**
 
@@ -24,7 +24,7 @@
 
 1. **Visualising Technical Analysis Indicators using Dash** : With this web application I aim to provide a free open source method for new learners or technical analysts to visualize and understand various technical indicators. Learners and traders can use this application to select various technical indicators and then visualize and interact with them. This can help new financial engineers get a better understanding of how various parameters of a technical indicator will affect the way we execute trades. It uses the technical analysis library available for python and Plotly's interactive visualization tools to provide the user with a dynamically changing and interactive tool. **Source Code can be found** [here](https://github.com/suryasashankgundepudi/technical-analysis-visualization-using-python-v1)
 
-2. **Pairs Trading** : Implementing Pairs Trading using time series analysis. Conducted data extraction for 200 Stocks and ETFs spanning various industries to identify highly correlated and cointegrated stock pairs. Performed stationarity tests on the spread between selected pairs using the Augmented Dickey Fuller Test. Generated trading signals and evaluated the profitability of the Pairs Trading Strategy, achieving an impressive 21% Compound Annual Growth Rate (CAGR) on a potential pair. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Pairs_Trading)
+2. **Pairs Trading** : Implementing Pairs Trading using time series analysis. Conducted data extraction for 200 Stocks and ETFs spanning various industries to identify highly correlated and cointegrated stock pairs. Performed stationarity tests on the spread between selected pairs using the Augmented Dickey Fuller Test. Generated trading signals and evaluated the profitability of the Pairs Trading Strategy, achieving an impressive 21% Compound Annual Growth Rate (CAGR) on a potential pair. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Pairs_Trading) *I want to work on a live trading API for Interactive brokers and perform the computations for Pairs trading with C++*. 
 
 3. **Sentiment Analysis for Evenet Driven Stock price Prediction** : Led a team in developing a novel neural tensor network for event embedding. Utilized innovative web scraping and NLP techniques to gather and preprocess extensive news data. Achieved a 97% accuracy rate in predicting sentiment from news headlines using a convolutional neural network. **Source code can be found** [here](https://github.com/suryasashankgundepudi/Sentiment-Analysis-for-Event-Driven-Stock-Price-Prediction)
 
